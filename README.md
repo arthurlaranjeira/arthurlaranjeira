@@ -3,6 +3,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rrCGkBr3)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Arthur-Laranjeira-Pinto)
 
+[![Dashboard](https://github-readme-stats.vercel.app/api?username={arthurlaranjeira}&theme=dracula
+)](https://codepen.io/Arthur-Laranjeira-)
+
+
 ## Features that I use
 
 <div style="display: inline_block">
